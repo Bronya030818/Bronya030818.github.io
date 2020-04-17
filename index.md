@@ -1,6 +1,6 @@
 # Lizard Zhang's Blog
 
-![Image1](/duck.jpg)
+![Image1](/duck1.jpg)
 
 ### I am a fan of [Bronya Zaychik](https://baike.baidu.com/item/%E5%B8%83%E6%B4%9B%E5%A6%AE%E5%A8%85%C2%B7%E6%89%8E%E4%BC%8A%E5%88%87%E5%85%8B/18728024?fr=aladdin).
 
