@@ -1,4 +1,4 @@
-# Lizard Zhang's Blog   ![Image1](/duck1.jpg)
+# Lizard's Blog   ![Image1](/duck1.jpg)
 
 ### I am a fan of [Bronya Zaychik](https://baike.baidu.com/item/%E5%B8%83%E6%B4%9B%E5%A6%AE%E5%A8%85%C2%B7%E6%89%8E%E4%BC%8A%E5%88%87%E5%85%8B/18728024?fr=aladdin).
 
@@ -15,3 +15,5 @@ Link1(Baidu): [bronyaDownloader](https://pan.baidu.com/s/1hBA72SFTqxKjXaxJQTM1kw
 Link2(github): [bronyaDownloader](https://github.com/Bronya030818/Bronya030818.github.io/releases/tag/downloader) key-free
 
 - coming soon
+
+[神秘链接](https://github.com/Bronya030818/Bronya030818.github.io/blob/master/digits_recognizor.ipynb)
