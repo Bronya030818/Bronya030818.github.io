@@ -17,5 +17,5 @@ Link2(github): [bronyaDownloader](https://github.com/Bronya030818/Bronya030818.g
 - coming soon
 
 ## Soemthing fresh
-[digits_recognizor](https://github.com/Bronya030818/Bronya030818.github.io/blob/master/digits_recognizor.ipynb)
-[picConvert](https://github.com/Bronya030818/Bronya030818.github.io/blob/master/picConvert.ipynb)
+- [digits_recognizor](https://github.com/Bronya030818/Bronya030818.github.io/blob/master/digits_recognizor.ipynb)
+- [picConvert](https://github.com/Bronya030818/Bronya030818.github.io/blob/master/picConvert.ipynb)
